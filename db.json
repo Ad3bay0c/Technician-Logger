@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Hard drive",
+      "attention": false,
+      "date": "12-11-2021",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Need help",
+      "attention": true,
+      "date": "12-11-2021",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 3,
+      "message": "Changed my Computer",
+      "attention": false,
+      "date": "12-11-2021",
+      "tech": "Sam Smith"
+    }
+  ],
+  "techs": [
+    {
+      "id" : 1,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id" : 2,
+      "firstname": "Sam",
+      "lastname": "Smith"
+    }
+  ]
+}
